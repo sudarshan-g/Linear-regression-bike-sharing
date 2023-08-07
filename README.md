@@ -22,7 +22,7 @@ You are required to model the demand for shared bikes with the available indepen
 \+ `676.2652` X _wthr_mostly_clear_ - `1897.6647` X _wthr_snowrain_light_ - `987.1736` X _season_Spring_
 \+ `460.0991` X _season_Winter_
 
-`Findings/Observations`: The test data `R-Squared` and `Adjusted R-Squared` are `0.8091` and `0.8018` respectively for the test dataset. This is pretty close to the training dataset's `R-squared` and `Adjusted R-squared`
+`Findings/Observations`: The test data `R-Squared` and `Adjusted R-Squared` are `0.8091` and `0.8018` respectively. This is pretty close to the training dataset's `R-squared` and `Adjusted R-squared`
 \- `0.818` and `0.815`
 
 ## Author
