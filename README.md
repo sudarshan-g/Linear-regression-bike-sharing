@@ -1,5 +1,13 @@
 # Linear-regression-bike-sharing
 
+## Table of Contents
+* [Brief overview](#brief-overview)
+* [Problem Statement](#problem-statement)
+* [Dataset](#dataset)
+* [Libraries used](#libraries-used)
+* [Final Model Stats](#final-model-stats)
+* [Author](#author)
+
 ## Brief overview
 Build a Linear regression model to estimate the bike demand based on various meteorological survey data and other variables such as holidays/weekdays etc.
 
@@ -21,6 +29,15 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Dataset
 Available under: \dataset\day.csv
+
+## Libraries used
+- Numpy - `1.24.3`
+- Pandas - `1.5.3`
+- Matplotlib - `3.7.1`
+- Seaborn - `0.12.2`
+- Sklearn - `1.2.2`
+- statsmodels - `0.14.0`
+  
 
 ## Final model stats
 **cnt** = `1010.0584` 
